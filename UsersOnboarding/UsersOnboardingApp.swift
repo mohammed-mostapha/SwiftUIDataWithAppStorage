@@ -11,7 +11,7 @@ import SwiftUI
 struct UsersOnboardingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IntroView()
         }
     }
 }
